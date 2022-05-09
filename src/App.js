@@ -43,14 +43,6 @@ function App() {
         <Welcome name ="Bruce" heroname = "superman">
         </Welcome>
         <Hello/>
-        <a
-            className="App-link"  
-            href="https://reactjs.org"  
-            target="_blank" 
-            rel="noopener noreferrer" 
-        >
-          
-        </a> */}
         {/* <Counter></Counter>
         <FunctionClick></FunctionClick>
         <ClassClick></ClassClick> */}
